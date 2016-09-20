@@ -1,0 +1,14 @@
+{
+  "name": "week10_d2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shopping_basket.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  }
+}
